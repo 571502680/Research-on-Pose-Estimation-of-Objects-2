@@ -26,7 +26,6 @@ Alternatively, you can directly go to the links above and manually download and 
 # Training the model
 
 To train the model run,
-
 ```
 python train.py datafile cfgfile initweightfile
 ```
